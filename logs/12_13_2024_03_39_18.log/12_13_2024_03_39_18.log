@@ -1,0 +1,3 @@
+[2024-12-13 03:39:18,111] 26 root - INFO - Testing exception handling code.
+[2024-12-13 03:39:18,111] 27 root - INFO - Execution start.
+[2024-12-13 03:39:18,111] 31 root - INFO - Division by zero.
